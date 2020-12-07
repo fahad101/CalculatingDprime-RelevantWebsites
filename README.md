@@ -6,6 +6,7 @@ https://rdrr.io/github/jvcasill/lingStuff/man/dPrime.html
 https://rdrr.io/cran/sensR/man/SDT.html
 http://www.travisriddle.com/D-prime/
 http://www.pallier.org/computing-discriminability-a-d-and-bias-with-r.html
+http://www.pallier.org/pdfs/aprime.pdf
 
 https://cran.r-project.org/web/packages/psyphy/psyphy.pdf
 https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00073/full
