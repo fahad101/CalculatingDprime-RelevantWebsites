@@ -27,3 +27,5 @@ http://www.mbfys.ru.nl/~robvdw/DGCN22/PRACTICUM_2011/LABS_2011/ALTERNATIVE_LABS/
 http://www.mbfys.ru.nl/~robvdw/DGCN22/PRACTICUM_2011/LABS_2011/ALTERNATIVE_LABS/
 
 https://www.rdocumentation.org/packages/verification/versions/1.42/topics/roc.plot
+
+https://yonelinas.faculty.ucdavis.edu/roc-analysis/
