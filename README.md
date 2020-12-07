@@ -4,6 +4,7 @@ Determine correct way to Calculate d prime in Yes-No recognition test compared t
 
 https://rdrr.io/github/jvcasill/lingStuff/man/dPrime.html
 https://rdrr.io/cran/sensR/man/SDT.html
+http://www.travisriddle.com/D-prime/
 
 https://cran.r-project.org/web/packages/psyphy/psyphy.pdf
 https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00073/full
