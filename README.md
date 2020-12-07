@@ -4,6 +4,7 @@ Determine correct way to Calculate d prime in Yes-No recognition test compared t
 
 https://cran.r-project.org/web/packages/psyphy/psyphy.pdf
 https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00073/full
+https://www.rdocumentation.org/packages/psycho/versions/0.5.0/topics/dprime
 
 https://rstudio-pubs-static.s3.amazonaws.com/371840_5694e490af85424eb7e7f3ae721cd67d.html
 
