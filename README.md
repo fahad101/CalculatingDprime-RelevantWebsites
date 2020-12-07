@@ -25,3 +25,5 @@ A conventional adjustment is to set the minimum p = 1/N where N is the number of
 http://www.mbfys.ru.nl/~robvdw/DGCN22/PRACTICUM_2011/LABS_2011/ALTERNATIVE_LABS/Lesson_9.html
 
 http://www.mbfys.ru.nl/~robvdw/DGCN22/PRACTICUM_2011/LABS_2011/ALTERNATIVE_LABS/
+
+https://www.rdocumentation.org/packages/verification/versions/1.42/topics/roc.plot
