@@ -1,6 +1,8 @@
 # CalculatingDprime-RelevantWebsites
 
 Determine correct way to Calculate d prime in Yes-No recognition test compared to d prime in 2-Alternative Forced-choice test.
+
+https://cran.r-project.org/web/packages/psyphy/psyphy.pdf
 https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00073/full
 
 https://rstudio-pubs-static.s3.amazonaws.com/371840_5694e490af85424eb7e7f3ae721cd67d.html
