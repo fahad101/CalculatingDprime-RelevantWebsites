@@ -29,3 +29,9 @@ http://www.mbfys.ru.nl/~robvdw/DGCN22/PRACTICUM_2011/LABS_2011/ALTERNATIVE_LABS/
 https://www.rdocumentation.org/packages/verification/versions/1.42/topics/roc.plot
 
 https://yonelinas.faculty.ucdavis.edu/roc-analysis/
+
+To correct the #NUM error, just change the participants perfect hit rate
+from 1.000 to 0.995 and/or any individual false alarm rate of 0.000 to
+.005. I would also double check you calculation of HR-FAR for the CWs
+and NCWs of the older participants, as I do not think they are all
+correct.
